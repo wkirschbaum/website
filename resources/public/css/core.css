@@ -1,0 +1,25 @@
+.menu-list {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+ul.no-style {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+.menu-item {
+  display: inline;
+  margin-right: 1em;
+}
+
+a.nav-link:link, a.nav-link:visited, a.nav-link:hover, a.nav-link:active {
+    text-decoration: none;
+    color: #000
+}
+
+.container {
+  margin-top: 1em;
+}
