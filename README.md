@@ -1,5 +1,7 @@
 ### Wilhelm's Website
 
+[![Floobits Status](https://floobits.com/wkirschbaum/website.png)](https://floobits.com/wkirschbaum/website/redirect)
+
 ## Prerequisites
 
 You will need [Leiningen][] 2.0.0 or above installed.
