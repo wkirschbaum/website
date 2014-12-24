@@ -1,4 +1,6 @@
-### Wilhelm's Website
+### Wilhelm's Website [![Circle CI](https://circleci.com/gh/wkirschbaum/website.svg?style=svg)](https://circleci.com/gh/wkirschbaum/website)
+
+Watch me code on floobits:
 
 [![Floobits Status](https://floobits.com/wkirschbaum/website.png)](https://floobits.com/wkirschbaum/website/redirect)
 
